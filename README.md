@@ -7,11 +7,15 @@
 Courses enrolled:
 1. ALX Software Enginnering.
 
-2.Venture Tech:
+2. Venture Tech:
 -Certificate of completion for Venture: Tech Edition!: https://nn889.keap-link001.com/api/v1/click/5099022504034304/5213777201856512
 
 3. LearnX: 
 -Python Development Course Certificate: https://www.learnx.org/profile/certifications
 
-4.edX:
+4. edX:
 -Analyzing Data with Python(IBM - DA0101EN), Python Basics for Data Science(IBM - PY0101EN).
+
+5. Cisco Networking Academy:
+-Certificate IT Essentials, Networking Essentials, CCNA R&S: Routing and Switching Essentials.
+
